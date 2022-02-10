@@ -57,18 +57,18 @@
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alex3921&show_icons=true&locale=en" alt="alex3921" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alex3921&show_icons=true&theme=dark&locale=en" alt="alex3921" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alex3921" alt="alex3921" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alex3921&theme=dark" alt="alex3921" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex3921&show_icons=true&locale=en&layout=compact" alt="alex3921" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex3921&show_icons=true&theme=dark&locale=en" alt="alex3921" /></p>
 
+__Note:__ _"Most used languages" stats is only a metric of the languages my public code consists of and doesn't reflect experience or skill level._
 
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+<p>README made with the help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a></p>
 
-
-<br>
-<footer align='center'>README made with the help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+**Check out my pinned projects below** 👇

@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.deta.dev/badge?page_id=lex3921.Alex3921&left_color=blue&right_color=green)
 
 </p>
-<div size='20px'> I'm Alex, a passionate web developer from Chicago! :smile: 
+<div size='20px'> I'm Alex, a passionate software engineer from Chicago! :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
